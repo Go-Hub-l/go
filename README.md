@@ -19,3 +19,14 @@
     > TreeA
     >
     > > > TreeB<br>
+
+```c
+int main(int argc,char **arg);
+```
+
+```cpp
+以C++的格式插入一段C++代码
+```
+
+[百度搜索]（http://www.baidu.com "点击进入")
+
